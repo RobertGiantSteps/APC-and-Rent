@@ -1,5 +1,5 @@
 # Proyecto APC-and-Rent
-<img src=""> 
+<img src="img/logo.png"> 
 
 ## Indice 
 
